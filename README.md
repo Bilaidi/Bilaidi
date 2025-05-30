@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me
+Hi! I'm Ahmad, a Cybersecurity professional with a strong focus on Reverse Engineering and Web Pentesting.
 
-<!--
-**Bilaidi/Bilaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Location: Zarqa, Jordan
 
-Here are some ideas to get you started:
+🎓 Background: Undergraduate Bachelor in Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Interests: DFIR, Specifically Network & Memory forensics, digital design, and gaming.
+
+📫 Reach Me: a@bracken.team for work & academic related subjects.
+
+# Featured Projects
+Bracken Team
+A cybersecurity team aimed to spread awareness and to protect the digital cyber world from all the dangerous threats that might impact our daily lives.
+
